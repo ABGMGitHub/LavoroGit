@@ -1,2 +1,2 @@
 # LavoroGit
-Testo
+Testo aggiuntivo
